@@ -1,0 +1,7 @@
+This is a sample text file for file handling.
+
+It contains multiple lines of text.
+
+Each line is separated by a newline character.
+
+You can use this file to practice reading and writing to files in Python.
